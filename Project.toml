@@ -1,0 +1,4 @@
+name = "BatchedKrylovGPU"
+uuid = "3eb3e37c-8eff-490c-b5ac-746a2614471e"
+version = "0.1.0"
+authors = ["Maciej Wajda <maciejwajda01@gmail.com>"]
